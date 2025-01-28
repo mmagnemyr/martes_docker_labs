@@ -1,0 +1,1 @@
+docker exec -it  martes_nginx cat /etc/nginx/conf.d/default.conf  

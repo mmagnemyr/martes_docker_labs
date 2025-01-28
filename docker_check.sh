@@ -1,0 +1,1 @@
+docker exec -it  martes_nginx ls -l /usr/share/nginx/html
